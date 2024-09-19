@@ -1,0 +1,118 @@
+.nav_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 9rem;
+    width: 100%;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    /* margin-top: 1rem; */
+    /* background-color: #0b85ff; */
+    background-color: #fff;
+
+    @media (max-width: 1200px) {
+        font-size: .6rem;
+        padding-left: .4rem;
+        color: rgb(224, 222, 222);
+        
+        }
+}
+
+.logo_container {
+    display: flex;
+    align-items: center;
+}
+
+.nav_img {
+    width: 18rem;
+    padding: 0.2rem;
+}
+
+.nav_p {
+    color: #000;
+    font-weight: 800;
+    font-size: 1.3rem;
+    margin-left: 1rem;
+}
+
+.nav_btn {
+    display: flex;
+    align-items: center;
+    padding: 4px 12px;
+    border-radius: 10px;
+    border: none;
+    /* background: linear-gradient(90deg, #FF002A 0.3%, #9600FF 100%); */
+    background-color: transparent;
+    cursor: pointer;  
+  
+}
+
+.btn-p {
+    margin-left: 8px;
+    
+    width: 1.5rem;
+    @media (max-width: 768px) {
+        width: 1rem;
+        
+        }
+}
+
+.idioma{
+
+    font-size: 1rem;
+    padding-left: 1rem;
+    color: black;
+
+    @media (max-width: 768px) {
+        font-size: .6rem;
+        padding-left: .4rem;
+        color: black;
+        
+        }
+}
+
+/* @media (max-width: 1200px) {
+    .nav_container {
+        margin-top: 8rem;
+    }
+} */
+
+
+@media only screen and (max-width: 768px) {
+    .nav_container {
+        /* padding: 0 150px;
+        margin-top: 1rem; */
+
+        flex-direction: row;
+        justify-content: space-between;
+        height: auto;
+        padding: 1rem 3rem 1rem 3rem;
+    }
+
+    .nav_img {
+        width: 10rem;
+    }
+
+    .nav_p {
+        margin-left: 0; 
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 685px) {
+    .nav_container {
+        /* flex-direction: row;
+        justify-content: space-around;
+        height: auto;
+        padding: 1rem; */
+
+        flex-direction: row;
+        justify-content: space-between;
+        height: auto;
+        padding: 1rem 3rem 1rem 3rem;
+    }
+
+    .nav_p {
+        display: none;
+    }
+}

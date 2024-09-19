@@ -1,0 +1,158 @@
+.program {
+    text-align: center;
+    padding: 20px 20px 50px 20px;
+
+    background-color: #fff;
+position: relative;
+overflow: hidden;
+}
+
+
+.program_background-image{
+
+    
+    @media (max-width:768px) {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        /* background: url("../../assets/lineas_rosas.png") no-repeat center center;  */
+        /* background: url("../../assets/fondovioleta-mgh2.png") no-repeat center center;  */
+        background-size:cover;
+        opacity: 0.5; /* Ajusta la opacidad para que el texto sea visible */
+        z-index: 1;
+}
+}
+
+.program_content{
+position: relative;
+z-index: 2;
+
+}
+
+.card_main_title {
+    font-size: 1.7em;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+    line-height: 1.2em;
+    /* font-weight: 600; */
+    /* color: #d6af46; */
+    color:#3b383d;
+
+    @media only screen and (max-width: 768px) {
+        font-size: 1.5em;
+       }
+    
+}
+.card_main_subtitle {
+    font-size: 1em;
+    margin-bottom: 3rem;
+    
+    line-height: 1.5em;
+    font-weight: 400;
+    color:  #3b383d;
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+
+.card_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.card {
+    /* background-color: #f3eded;
+    border: 1px solid #e83cf83d; */
+    border-radius: 1rem;
+    width: 20rem;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.card_gris {
+    /* background-color: #f3eded;
+    border: 1px solid #e83cf865; */
+    border-radius: 1rem;
+    width: 20rem;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.program_image_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.program_image {
+    width: 100%;
+    
+    border-radius: 1.1rem;
+    height: auto;
+    
+}
+
+.card_title {
+  
+    margin: 10px 0;
+    font-weight: 400;
+    font-size: 1.1em;
+    /* color: #b3d8f3; */
+    color: #c9a441;
+}
+
+.card_subtitle {
+    font-size: 1.2em;
+    margin: 5px 0;
+    color: #555;
+    line-height: 1.2em;
+}
+
+.card_p {
+    font-size: .8em;
+    color: #797777;
+}
+
+.silla_image{
+    width: 40%;
+    border-radius: 1rem;
+
+    @media only screen and (max-width: 768px) {
+    
+        width: 100%;
+       }
+    
+}
+
+
+/* Asegúrate de que las tarjetas se adapten correctamente en pantallas más pequeñas */
+@media (max-width: 768px) {
+    .card {
+        width: calc(50% - 20px);
+    }
+
+    .card_title {
+        font-size: 1.1em;
+        color: #c9a441;
+    }
+    .card_p {
+        font-size: 1em;
+        color: #797777;
+    }
+    .card_main_subtitle{
+        padding-left: 1rem;
+    padding-right: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .card {
+        width: 100%;
+    }
+}

@@ -1,0 +1,33 @@
+.background {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    
+  }
+  
+/* .gradient-colors{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(180deg, #FF002A 0%, #9600FF 50%, black 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} */
+ .color-fondo{
+    /* background: linear-gradient(90deg, #f7f317 0.1%, #0998da 100%);  */
+    background: #28b6ba;
+    padding-bottom: 1rem;
+
+    display: flex;  /* Añadir para centrar */
+    flex-direction: column; /* Mantener la dirección de columna */
+    align-items: center;  /* Centrar horizontalmente */
+    justify-content: center;  
+ }
+
+ .color-fondo2{
+   background: #28b6ba;
+ margin-top: .5rem;
+  padding-bottom: 0rem;
+  padding-top: .2rem;
+}

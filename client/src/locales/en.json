@@ -1,0 +1,130 @@
+{
+    
+    "Apertura" : {
+        "title_1": "The ",
+        "title_2":"Argentine",
+        "title_3": "film festival",
+        "intro":"Participate in this fiction short film event in which new talents from Argentina appear to leave their mark.",
+        "button":"Terms",
+        "button2":"Participate"},
+
+
+    "gift" : {
+        "title" : "Get today as a gift",
+        "p": "Dentro de",
+        "span":"Media Growth Hub",
+        "p2":"+ 200 PRESETS",
+        "p3":"+1200 EDITING RESOURCES",
+        "p4":"+5 HOURS OF CLASSES TO GET CLIENTS",
+        "p5":"+10 DOCUMENTS ABOUT HIGH TICKET OFFERS"
+        
+    },
+
+    
+
+    "prog" : {
+        "title": "Good stories",
+        "subtitle_1":"The theme is free.",
+        "subtitle_2":"Fiction shorts must last between 3 and 15 minutes to enter the contest. Of the total number of short films, only ten will be selected, which will be shown on the day of the exhibition.",
+        "title1": "What are the prizes?",
+        "subtitle1":"Anyone can win.",
+        "card_module1":"First place",
+        "card_title1":"The best short will win a financial prize",
+        "card_module2":"Second place",
+        "card_title2":"Second place will win 50% of the grand prize",
+        "card_module3":"Third place",
+        "card_title3":"Third place will get 30% of the grand prize"
+    },
+
+    "bolsa": {
+        "title":"The event will be on December 14",
+        "title2":"",
+        "text":"You have time to send your short until October 28, 2024",
+        "text2":"Learn more here"
+    },
+
+
+    "brief":{
+        "top":"In summary",
+        "title1":"MASTER IN",
+        "title2":"EDICIÓN DE VIDEOS",
+        "bajada":"What will you get?",
+        "item1":"Complete Study Plan + Gift Content",
+        "item2":"Professional portfolio",
+        "item3":"Sales practices",
+        "item4":"Services paid in dollars",
+        "item5":"Access to our community of editors",
+        "precio":"price per module $197 USD",
+        "precio2":"Total price $1000 USD"
+    },
+
+   
+    "about": {
+        "title":"Meet the jurors",
+        "subtitle":"Camila Fabbri",
+        "text1":"She is a writer and director. She wrote and directed five plays and collaborates in various cultural and literary media. He published 'The Accidents' (2015), 'The Day They Turned Off the Light' (2021), 'We Are Safe' (2022) and 'The Dancing Queen' (2024).",
+        "text2":"He also wrote and directed the film 'Clara gets lost in the forest' (2023), premiered in competition at the San Sebastián International Film Festival.",
+        "text3":" "
+    },
+
+    "profile2": {
+        "subtitle":"Marcelo Camaño",
+        "text1":"He has a degree in Social Communication from the National University of Rosario and a master's degree in Film and Television from the Autonomous University of Barcelona.",
+        "text2":"He is a television author. He wrote the soap operas 'Double Life' (2015), 'Montecristo' (2006) and 'Stolen Lives' (2008), the series 'Mosca y Smith en el Once' (2004), 'Television for Identity' (2007), 'The Pact' (2011), and the film Belgrano (2010), among other works.",
+        "text3":""
+    },
+
+    "profile3": {
+        "subtitle":"Camilo Antolini",
+        "text1":"He is a director and editor of films and series, partner of 100 bars productions, and consultant for ESPN.",
+        "text2":"Among his works are: 'The Bride's Son' (2001), 'The Same Love, the Same Rain' (1999), 'Luna de Avellaneda' (2004), 'Vientos de Agua' (2005), 'The man of your life' (2011), 'The Sent Ones' (2021), 'Remembering the Alejandro Molina Show' (2011), 'White, Blue and White' (2014) and 'Calle 13: Around the World' ( 2012)",
+        "text3":""
+    },
+
+    
+    "profile4": {
+        "subtitle":"Victoria Miranda",
+        "text1":"She is a director, screenwriter, ScriptDoctor and fiction showrunner. She has produced Argentine films, series and short films, which have been internationally recognized.",
+        "text2":"Among her works are: 'You will have imagined it' (2019), 'What they call love' (2015), 'In the dark' (2019), 'Comfortable' (2017), 'The Calamaro kitchen' (2021) , 'The kids on the bridge' (2012), among others.",
+        "text3":""
+    },
+
+    "profile5": {
+        "subtitle":"Sergio Crescenzi",
+        "text1":"He is founder and General Director at the International Television Festival and Market (FyMTI). He has more than 20 years in the television and audiovisual industry.",
+        "text2":"He has worked with international authors, producers and distributors to promote the development of new fictions and content, facilitating financing and co-production spaces.",
+        "text3":""
+    },
+
+    "incaa" : {
+        "title_1": "More  ",
+        "title_2": "independent",
+        "title_3": "film fictions",
+        "intro":"This contest tries to support culture, so that there are more artists expressing a different voice."
+        },
+
+    "FAQ": {
+        "faq-title":"Frequently Asked Questions",
+        "faq1":"Where can I ask you questions?",
+        "ans1":"You can contact us through our networks or by sending an email to project.ar@gmail.com",
+        "faq2":"How are the results communicated to me?",
+        "ans2":"We will only contact those who were selected by email, until December 6, 2024.",
+        "faq3":"Can I submit more than one short?",
+        "ans3":"Only one work per author can be submitted. The survey only needs to be completed once, otherwise the material will not be considered.",
+        "faq4":"Is entry to the event free?",
+        "ans4":"Yes. We will communicate the location and schedule through our networks, through our official page and channels."
+    },
+
+
+
+
+    "footer" : {
+        "dev": "Developed por",
+        "copy": "All rights reserved." 
+    },
+
+   
+    "views1": "1.2M de vistas",
+    "views2": "131K de vistas",
+    "views3": "340K de vistas"
+}

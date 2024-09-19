@@ -1,0 +1,126 @@
+{
+    
+    "Apertura" : {
+        "title_1": "El ",
+        "title_2": "festival de",
+        "title_3":"cine argentino",
+        "intro":"Participa de este evento de cortometrajes de ficción en el que los nuevos talentos de Argentina se presentan para dejar su huella.",
+        "button":"Términos",
+        "button2":"Participa"},
+
+
+    "gift" : {
+        "title" : "Obten hoy de regalo",
+        "p": "Dentro de",
+        "span":"Media Growth Hub",
+        "p2":"+ 200 PRESETS",
+        "p3":"+1200 RECURSOS DE EDICIÓN",
+        "p4":"+5 HORAS DE CLASES PARA CONSEGUIR CLIENTES",
+        "p5":"+10 DOCUMENTOS SOBRE OFERTAS HIGH TICKET"
+        
+    },
+
+    "prog" : {
+        "title": "Buenas historias",
+        "subtitle_1":"La temática es libre.",
+        "subtitle_2":"Los cortos de ficción deben durar entre 3 y 15 minutos para entrar en el concurso. Del total de cortometrajes, solo se seleccionaran diez, los cuales se exhibirán el día de la muestra.",
+        "title1": "¿Cuales son los premios?",
+        "subtitle1":"Cualquiera puede ganar.",
+        "card_module1":"Primer puesto",
+        "card_title1":"El mejor corto se llevará un premio económico",
+        "card_module2":"Segundo puesto",
+        "card_title2":"El segundo lugar ganará el 50% del premio mayor",
+        "card_module3":"Tercer puesto",
+        "card_title3":"El tercer lugar obtendrá el 30% del premio mayor"
+       
+    },
+
+    "bolsa": {
+        "title":"El evento será el 14 de diciembre",
+        "title2":"",
+        "text":"Tienes tiempo para enviar tu corto hasta el 28 de Octubre de 2024",
+        "text2":"Conoce más aquí"
+    },
+
+    "brief":{
+        "top":"En resumen",
+        "title1":"MASTER EN",
+        "title2":"EDICIÓN DE VIDEOS",
+        "bajada":"¿Qué obtendrás?",
+        "item1":"Plan de estudios completo + Contenido de regalo",
+        "item2":"Portfolio profesional",
+        "item3":"Prácticas de venta",
+        "item4":"Funciones remuneradas en dolares",
+        "item5":"Acceso a nuestra comunidad de editores",
+        "precio":"Precio por módulo $142 USD",
+        "precio2":"Precio total $1000 USD"
+    },
+
+    "about": {
+        "title":"Conoce a los jurados",
+        "subtitle":"Camila Fabbri",
+        "text1":"Es escritora y directora. Escribió y dirigió cinco obras teatrales y colabora en diversos medios culturales y literarios. Publicó 'Los accidentes' (2015), 'El día que apagaron la luz' (2021), 'Estamos a salvo' (2022) y 'La reina del baile' (2024). ",
+        "text2":"También escribió y dirigió la película 'Clara se pierde en el bosque' (2023), estrenada en competencia en el Festival Internacional de Cine de San Sebastián.",
+        "text3":" "
+    },
+
+    "profile2": {
+        "subtitle":"Marcelo Camaño",
+        "text1":"Es licenciado en Comunicación Social por la Universidad Nacional de Rosario y máster en Cine y Televisión por la Universidad Autónoma de Barcelona. ",
+        "text2":"Es autor de televisión. Escribió las telenovelas 'Doble vida'(2015), 'Montecristo'(2006) y 'Vidas robadas'(2008), las series 'Mosca y Smith en el Once'(2004), 'Televisión por la identidad'(2007), 'El pacto'(2011), y la película Belgrano(2010), entre otros trabajos. ",
+        "text3":""
+    },
+
+    "profile3": {
+        "subtitle":"Camilo Antolini",
+        "text1":"Es director y editor de películas y series, socio de 100 bares producciones, consultor para ESPN.",
+        "text2":"Entre sus trabajos se encuentra: 'El hijo de la novia'(2001), 'El mismo amor, la misma lluvia' (1999), 'Luna de Avellaneda' (2004), 'Vientos de agua' (2005), 'El hombre de tu vida' (2011), 'Los enviados' (2021), 'Recordando el show de Alejandro Molina' (2011), 'White, Blue and White' (2014) y 'Calle 13: La vuelta al mundo' (2012)",
+        "text3":""
+    },
+
+    
+    "profile4": {
+        "subtitle":"Victoria Miranda",
+        "text1":"Es directora, guionista, ScriptDoctor y showrunner de ficciones. Ha producido películas, series y cortometrajes argentinos, que han sido reconocidos internacionalmente.",
+        "text2":"Entre sus trabajos se encuentra: 'Lo habrás imaginado'(2019),'Eso que llaman amor'(2015), 'A oscuras' (2019), 'Cómodos' (2017), 'La cocina de los Calamaro' (2021), 'Los pibes del puente' (2012), entre otros.",
+        "text3":""
+    },
+
+    "profile5": {
+        "subtitle":"Sergio Crescenzi",
+        "text1":"Es fundador y Director general en el Festival y Mercado de Televisión Internacional (FyMTI). Tiene más de 20 años en la industria televisiva y audiovisual. ",
+        "text2":"Ha trabajado con autores, productoras y distribuidoras internacionles, para favorecer el desarrollo de nuevas ficciones y contenidos, facilitando espacios de financiación y coproducción.",
+        "text3":""
+    },
+    
+    "incaa" : {
+        "title_1": "Más ",
+        "title_2": "ficciones de",
+        "title_3":"cine independiente",
+        "intro":"Este concurso intenta apoyar la cultura. Para que hayan más artistas expresando una voz distinta."
+        },
+
+    "FAQ": {
+        "faq-title":"Preguntas Frecuentes",
+        "faq1":"¿Por dónde puedo hacerles consultas?",
+        "ans1":"Puedes contactarnos por nuestras redes o mandando un mail a proyect.ar@gmail.com",
+        "faq2":"¿Cómo me comunican los resultados?",
+        "ans2":"Solo nos contactaremos con quienes fueron seleccionados por email, hasta el 6 de diciembre de 2024.",
+        "faq3":"¿Puedo presentar más de un corto?",
+        "ans3":"Solo se puede presentar una obra por autor. La encuesta solo debe ser completada una vez, de lo contrario no se tendrá en cuenta el material.",
+        "faq4":"¿La entrada al evento es gratuita?",
+        "ans4":"Sí. Comunicaremos la locación y el horario por nuestras redes, por nuestra página y canales oficiales."
+    },
+
+
+
+    "footer" : {
+        "dev": "Desarrollado por",
+        "copy": "Todos los derechos reservados." 
+    },
+
+   
+    "views1": "1.2M de vistas",
+    "views2": "131K de vistas",
+    "views3": "340K de vistas"
+}
