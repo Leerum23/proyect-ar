@@ -4,7 +4,7 @@ import { Fade, Zoom } from "react-awesome-reveal"
 import { useTranslation } from "react-i18next";
 import image1 from "../../assets/fabbri-2.png";
 import image2 from "../../assets/chaya-2.png";
-import image3 from "../../assets/sergio-2.png";
+import image3 from "../../assets/camilo-2.png";
 
 
 import { keyframes } from '@emotion/react';
@@ -59,9 +59,9 @@ function Cuerpo4() {
                     
                       </div>
                                       
-                      <p className="about_subtitle">{t("profile5.subtitle")}</p>
+                      <p className="about_subtitle">{t("profile3.subtitle")}</p>
                       <div className="about_p">
-                      <p className="about_p1">{t("profile5.text1")}</p><p className="about_p2">{t("profile5.text2")}</p><p className="about_p3">{t("about.text3")}</p>
+                      <p className="about_p1">{t("profile3.text1")}</p><p className="about_p2">{t("profile3.text2")}</p><p className="about_p3">{t("about.text3")}</p>
                       </div>
                       </div>
           

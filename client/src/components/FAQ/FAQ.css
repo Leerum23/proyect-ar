@@ -16,10 +16,10 @@
 	padding: 15px;
 	/* background: linear-gradient(90deg, #f7f317 0.00000001%, #0998da 100%); */
     /* background:  #327f8f;  */
-    background: #327f8f;
+    background: #fff;
 	border-radius: 8px;
 	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-    color: #fff;
+    color: #797777;
     border: 1px solid #ffffff7d;
 }
 
@@ -38,7 +38,7 @@
 	transform: translateY(-50%);
 	width: 30px;
 	height: 30px;
-	background-image: url("../../assets/flecha2.png"); 
+	background-image: url("../../assets/flecha3.png"); 
 	background-position: center;
 	background-size: contain;
 	background-repeat: no-repeat;

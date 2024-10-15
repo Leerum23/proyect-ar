@@ -4,8 +4,9 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding: 3rem;
+    padding: 2rem;
     font-weight: 600;
+    font-size: .85rem;
 }
 
 .footer_dev a {
@@ -36,6 +37,7 @@
 
 .color-fondo-footer{
     /* background: linear-gradient(90deg, #f7f317 0.1%, #0998da 100%);  */
+    margin-top: 4rem;
     background: #28b6ba;
     padding-bottom: .5rem;
 

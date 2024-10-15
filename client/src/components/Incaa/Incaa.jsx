@@ -18,11 +18,14 @@ function Incaa() {
     const { t } = useTranslation();
     return (
         <div  className='incaa_container'>
+
+            
             
             {/* <video src={videoBg} autoPlay loop muted playsInline className='background'/> */}
             <div className="incaa-content">
                 
                 <div className="flex-container-incaa">
+                <div className='incaa-img'></div>
                   
                     <div className="bolsa_content1">
                      
