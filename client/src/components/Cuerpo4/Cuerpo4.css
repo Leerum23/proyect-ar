@@ -64,6 +64,10 @@
 
     margin-top: 1rem;
     margin-bottom: 1rem;
+    
+    @media (max-width:767px){
+    margin-bottom: 3rem;
+    }
 }
 .about_p3 {
 
