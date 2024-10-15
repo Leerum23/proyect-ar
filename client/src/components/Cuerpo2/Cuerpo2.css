@@ -34,7 +34,7 @@ z-index: 2;
 .card_main_title {
     font-size: 1.7em;
     margin-bottom: 1rem;
-    margin-top: 2rem;
+    margin-top: 3rem;
     line-height: 1.2em;
     /* font-weight: 600; */
     /* color: #d6af46; */
@@ -47,7 +47,7 @@ z-index: 2;
 }
 .card_main_subtitle {
     font-size: 1em;
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
     
     line-height: 1.5em;
     font-weight: 400;
@@ -71,6 +71,9 @@ z-index: 2;
     padding: 20px;
     box-sizing: border-box;
     text-align: left;
+    @media only screen and (max-width: 768px) {
+    padding: 0px 20px 0px 20px
+    }
 }
 
 .card_gris {

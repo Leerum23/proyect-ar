@@ -27,6 +27,7 @@ function Apertura() {
                     <div className="aper_content1">
                         <div className='flex-superior'>
                         <Fade>
+                            <div className='flex-superior-title'>
                             <h1 className='title_desc'>
                                 {t("Apertura.title_1")}
                             </h1>
@@ -36,6 +37,7 @@ function Apertura() {
                             <h1 className='title_desc2'>
                                 {t("Apertura.title_3")}
                             </h1>
+                            </div>
                         </Fade>
                         <Fade>
                             <p className='desc_t'>{t("Apertura.intro")}</p>
