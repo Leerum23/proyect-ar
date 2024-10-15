@@ -9,7 +9,8 @@
     align-items: center;
     display: flex;
     flex-direction: row-reverse;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
+    margin-top: 1rem;
 
     @media (max-width:767px){
         flex-direction: column;
