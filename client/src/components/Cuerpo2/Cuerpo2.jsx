@@ -25,7 +25,7 @@ function Cuerpo2() {
 
     <h2 className="card_main_title">{t("prog.title")}</h2>
     <p className="card_main_subtitle">{t("prog.subtitle_1")}</p>
-    <p className="card_main_subtitle">{t("prog.subtitle_2")}</p>
+    <p className="card_main_subtitle-posta">{t("prog.subtitle_2")}</p>
 
                     <div className="program_image_container">
                     <img src={silla} alt="image" className="silla_image"/>

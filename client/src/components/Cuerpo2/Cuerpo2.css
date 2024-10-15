@@ -45,6 +45,16 @@ z-index: 2;
        }
     
 }
+.card_main_subtitle-posta {
+    font-size: 1em;
+    margin-bottom: 3rem;
+    
+    line-height: 1.5em;
+    font-weight: 400;
+    color:  #3b383d;
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
 .card_main_subtitle {
     font-size: 1em;
     margin-bottom: 1rem;
