@@ -73,7 +73,7 @@ function Home() {
                 <Cuerpo3 />
                 </div> */}
 
-                <Cuerpo4 />
+                {/* <Cuerpo4 /> */}
                 <Incaa/>
 
                 {/* <FAQ/>
